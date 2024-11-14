@@ -4,7 +4,7 @@ Hi, i'm @harryz8 and I am a 2nd year BSC Computer Science student at the Univers
 ## Languages
 I am currently learning:
 <ul>
-  <li>Python</li>
+  <li>Python * <-My favourite language! * </li>
   <li>Java</li>
   <li>Haskell</li>
   <li>C</li>
