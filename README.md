@@ -6,3 +6,4 @@ I am currently learning:
 * Java
 * Haskell
 * C
+* TypeScript
