@@ -34,12 +34,13 @@
       <div class="main">
         <h1>Hi, i'm @harryz8!</h1>
         <p>A 2nd year student in Computer Science at the University of Birmingham</p>
+        <p>Languages I'm learning:</p>
         <div class="line">
-          <div style="flex-grow: 0;">Languages I'm learning:</div>
-          <div class="pill" style="background: darkred"><img src="./java.png" /> <div class="pilltext">Java</div></div>
-          <div class="pill" style="background: darkblue"><img src="./python.png" /> <div class="pilltext">Python</div></div>
-          <div class="pill" style="background: darkorange"><p style="color: white; font-weight: 900;">C</p> <div class="pilltext">C</div></div>
-          <div class="pill" style="background: darkgreen"><img src="./typescript.png" /> <div class="pilltext">Typescript</div></div>
+          <div class="pill" style="background: darkred"><div class="pilltext">Java</div></div>
+          <div class="pill" style="background: darkblue"><div class="pilltext">Python</div></div>
+          <div class="pill" style="background: purple"><div class="pilltext">Haskell</div></div>
+          <div class="pill" style="background: darkorange"><div class="pilltext">C</div></div>
+          <div class="pill" style="background: darkgreen"><div class="pilltext">Typescript</div></div>
         </div>
       </div>
     </div>
